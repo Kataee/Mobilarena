@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script src="https://kit.fontawesome.com/8eeeedbce1.js" crossorigin="anonymous"></script>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style/style.css">
+  <link rel="stylesheet" href="style/utility.css">
+  <title>Mobilarena - Telekommunikáció online</title>
+</head>
+
+<body>
+  <header>
+
+    <div class="container">
+      <div id="container">
+        <img src="img/header/logo.png" alt="logo">
+
+        <div class="brother-sites a_hover">
+          <a href="#">PROHARDVER!</a>
+          <a href="#">IT café</a>
+          <a href="#">GAMEPOD.hu</a>
+          <a href="#">LOGOUT.hu</a>
+          <a href="#">HardverApró</a>
+        </div>
+        <div class="icons">
+          <span><a href="#"><i class="fas fa-search"></i></a></span>
+          <div class="v-line"></div>
+          <span><a href="#"><i class="fas fa-envelope-open fa-lg fa-fw user-notify"></i></a></span>
+          <span><a href="#"><i class="fas fa-bell fa-lg fa-fw user-notify"></i></a></span>
+          <span><img src="./img/header/rooster.gif" alt=""></span>
+        </div>
+
+      </div>
+    </div>
+    <nav>
+      <div class="container">
+        <div id="container">
+          <div class="page-sites">
+            <span><a href="#">Rovatok</a></span>
+            <span><a href="#">Tesztek</a></span>
+            <span><a href="#">Hírek</a></span>
+            <span> <a href="#">Blogok</a></span>
+            <span> <a href="#">Fórum</a></span>
+            <span> <a href="#">Videók</a></span>
+            <span> <a href="#">Fotók</a></span>
+          </div>
+          <div class="page-icons">
+            <span><i class="fab fa-facebook-f fa-lg"></i></span>
+            <span><i class="fab fa-twitter fa-lg"></i></span>
+            <span><i class="fas fa-rss"></i></span>
+
+          </div>
+        </div>
+
+      </div>
+    </nav>
+  </header>
+
+
+  <!-- ------------------------------------------------- -->
+  <!-- Címlap -->
+  <section>
+    <div class="container p-x15">
+      <div class="front-page">
+        <div class="main-headlines">
+          <div class="center-content">
+            <div class="center-content-left">
+              <div class="main-article">
+                <div class="box box-l main-article">
+                  <a href="#"><img src="./img/content/tellur-sedna.png" alt=""></a>
+                  <h1>Tellur Sedna teszt</h1>
+                </div>
+              </div>
+              <div class="main-article-left">
+                <div class="box box-s">
+                  <a href="#"><img src="./img/content/airdots.jpg" alt=""></a>
+                  <h3>Xiaomi Mi Airdots Basic - verhetetlen ár, korrekt minőség</h3>
+                </div>
+              </div>
+              <div class="main-article-right">
+                <div class="box box-s">
+                  <a href="#"><img src="./img/content/lenovo-a6.jpg" alt=""></a>
+                  <h3>Lenovo A6 Note - nem az igazi</h3>
+                </div>
+              </div>
+            </div>
+
+
+            <div class="center-content-right">
+              <div class="article-top ">
+                <div class="right-headlines">
+                  <div class="box box-m">
+                    <a href="#"><img src="./img/content/realme-5pro.jpg" alt=""></a>
+                    <h2>Realme 5 Pro - igazi vetélytárs</h2>
+                  </div>
+                </div>
+
+              </div>
+              <div class="article-bottom">
+                <div class="box box-m">
+                  <a href="#"><img src="./img/content/realme-x2pro.jpg" alt=""></a>
+                  <h2>Realme X2 Pro - van új a nap alatt</h2>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+          <div class="blog">
+            <div class="blog-header-1">
+              <a href="#">Huawei Experience blog</a>
+            </div>
+            <div class="blog-posts">
+              <ul>
+                <a href="#">
+                  <li>Huawei Experience: a Mate 20 X-szel kóstoltunk bele a magyar 5G-be</li>
+                </a>
+                <a href="#">
+                  <li>Huawei Experience: Mindent a HMS-ről és az AppGalleryről november 27-én</li>
+                </a>
+                <a href="#">
+                  <li>Huawei Experience: Bemutatkozik a Huawei Mobile Services</li>
+                </a>
+              </ul>
+              <a href="#">Még több Huawei Experience blog...</a>
+            </div>
+
+            <div class="blog-header-2">
+              <a href="#">Honor blog</a>
+            </div>
+            <div class="blog-posts">
+              <ul>
+                <a href="#">
+                  <li>Honor blog: Érkezik a Magic-watch 2</li>
+                </a>
+                <a href="#">
+                  <li>Honor blog: Itthon is kapható a Honor 20 Pro új színe</li>
+                </a>
+                <a href="#">
+                  <li>Honor blog: Hazánkban is kapható a Band 5</li>
+                </a>
+              </ul>
+              <a href="#">Még több Honor blog...</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div class="container  p-x15">
+      <div class="article">
+        <!-- -------------------------------- -->
+        <div class="article-box">
+          <div class="article-img"><img src="./img/article/qualcomm.jpg" alt=""></div>
+          <div class="article-text">
+            <h2>Új 4G szetteket mutatott be a Qualcomm</h2>
+            <p>A 700-as, a 600-as és a 400-as széria is új taggal bővül, a gyártó a továbbra is 4G orientált piacokra
+              szánja őket.</p>
+            <div class="article-icons">
+              <div class="category">HÍR</div>
+              <div class="date"> <time datetime="01.19.2020"></time>01.19.2020</div>
+              <div class="article-comments"><i class="fas fa-comments"></i>17</div>
+            </div>
+          </div>
+        </div>
+        <!-- -------------------------------- -->
+        <div class="article-box">
+          <div class="article-img"><img src="./img/article/google-pixel-buds.jpg" alt=""></div>
+          <div class="article-text">
+            <h2>Új 4G szetteket mutatott be a Qualcomm</h2>
+            <p>A 700-as, a 600-as és a 400-as széria is új taggal bővül, a gyártó a továbbra is 4G orientált piacokra
+              szánja őket.</p>
+            <div class="article-icons">
+              <div class="category">HÍR</div>
+              <div class="date"> <time datetime="01.19.2020"></time>01.19.2020</div>
+              <div class="article-comments"><i class="fas fa-comments"></i>17</div>
+            </div>
+          </div>
+        </div>
+        <!-- -------------------------------- -->
+        <div class="article-box">
+          <div class="article-img"><img src="./img/article/galaxy-z.jpg" alt=""></div>
+          <div class="article-text">
+            <h2>Új 4G szetteket mutatott be a Qualcomm</h2>
+            <p>A 700-as, a 600-as és a 400-as széria is új taggal bővül, a gyártó a továbbra is 4G orientált piacokra
+              szánja őket.</p>
+            <div class="article-icons">
+              <div class="category">HÍR</div>
+              <div class="date"> <time datetime="01.19.2020"></time>01.19.2020</div>
+              <div class="article-comments"><i class="fas fa-comments"></i>17</div>
+            </div>
+          </div>
+        </div>
+        <!-- -------------------------------- -->
+        <div class="article-box">
+          <div class="article-img"><img src="./img/article/samsung-boss.jpg" alt=""></div>
+          <div class="article-text">
+            <h2>Új 4G szetteket mutatott be a Qualcomm</h2>
+            <p>A 700-as, a 600-as és a 400-as széria is új taggal bővül, a gyártó a továbbra is 4G orientált piacokra
+              szánja őket.</p>
+            <div class="article-icons">
+              <div class="category">HÍR</div>
+              <div class="date"> <time datetime="01.19.2020"></time>01.19.2020</div>
+              <div class="article-comments"><i class="fas fa-comments"></i>17</div>
+            </div>
+          </div>
+        </div>
+        <!-- -------------------------------- -->
+        <div class="article-box">
+          <div class="article-img"><img src="./img/article/galaxy-s20.png" alt=""></div>
+          <div class="article-text">
+            <h2>Új 4G szetteket mutatott be a Qualcomm</h2>
+            <p>A 700-as, a 600-as és a 400-as széria is új taggal bővül, a gyártó a továbbra is 4G orientált piacokra
+              szánja őket.</p>
+            <div class="article-icons">
+              <div class="category">HÍR</div>
+              <div class="date"> <time datetime="01.19.2020"></time>01.19.2020</div>
+              <div class="article-comments"><i class="fas fa-comments"></i>17</div>
+            </div>
+          </div>
+        </div>
+        <!-- -------------------------------- -->
+        <div class="article-box">
+          <div class="article-img"><img src="./img/article/grafen.jpg" alt=""></div>
+          <div class="article-text">
+            <h2>Új 4G szetteket mutatott be a Qualcomm</h2>
+            <p>A 700-as, a 600-as és a 400-as széria is új taggal bővül, a gyártó a továbbra is 4G orientált piacokra
+              szánja őket.</p>
+            <div class="article-icons">
+              <div class="category">HÍR</div>
+              <div class="date"> <time datetime="01.19.2020"></time>01.19.2020</div>
+              <div class="article-comments"><i class="fas fa-comments"></i>17</div>
+            </div>
+          </div>
+        </div>
+        <!-- -------------------------------- -->
+        <div class="article-box">
+          <div class="article-img"><img src="./img/article/galaxy-buds-plus.jpg" alt=""></div>
+          <div class="article-text">
+            <h2>Új 4G szetteket mutatott be a Qualcomm</h2>
+            <p>A 700-as, a 600-as és a 400-as széria is új taggal bővül, a gyártó a továbbra is 4G orientált piacokra
+              szánja őket.</p>
+            <div class="article-icons">
+              <div class="category">HÍR</div>
+              <div class="date"> <time datetime="01.19.2020"></time>01.19.2020</div>
+              <div class="article-comments"><i class="fas fa-comments"></i>17</div>
+            </div>
+          </div>
+        </div>
+        <!-- -------------------------------- -->
+        <div class="article-box">
+          <div class="article-img"><img src="./img/article/mi-mix-alpha.jpg" alt=""></div>
+          <div class="article-text">
+            <h2>Új 4G szetteket mutatott be a Qualcomm</h2>
+            <p>A 700-as, a 600-as és a 400-as széria is új taggal bővül, a gyártó a továbbra is 4G orientált piacokra
+              szánja őket.</p>
+            <div class="article-icons">
+              <div class="category">HÍR</div>
+              <div class="date"> <time datetime="01.19.2020"></time>01.19.2020</div>
+              <div class="article-comments"><i class="fas fa-comments"></i>17</div>
+            </div>
+          </div>
+        </div>
+        <!-- -------------------------------- -->
+        <div class="article-box">
+          <div class="article-img"><img src="./img/article/tellur-sedna.png" alt=""></div>
+          <div class="article-text">
+            <h2>Új 4G szetteket mutatott be a Qualcomm</h2>
+            <p>A 700-as, a 600-as és a 400-as széria is új taggal bővül, a gyártó a továbbra is 4G orientált piacokra
+              szánja őket.</p>
+            <div class="article-icons">
+              <div class="category">HÍR</div>
+              <div class="date"> <time datetime="01.19.2020"></time>01.19.2020</div>
+              <div class="article-comments"><i class="fas fa-comments"></i>17</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- -------------------------------- -->
+        <div class="article-box">
+          <div class="article-img"><img src="./img/article/tomtom-huawei.jpg" alt=""></div>
+          <div class="article-text">
+            <h2>Új 4G szetteket mutatott be a Qualcomm</h2>
+            <p>A 700-as, a 600-as és a 400-as széria is új taggal bővül, a gyártó a továbbra is 4G orientált piacokra
+              szánja őket.</p>
+            <div class="article-icons">
+              <div class="category">HÍR</div>
+              <div class="date"> <time datetime="01.19.2020"></time>01.19.2020</div>
+              <div class="article-comments"><i class="fas fa-comments"></i>17</div>
+            </div>
+          </div>
+        </div>
+        <!-- -------------------------------- -->
+        <div class="article-box">
+          <div class="article-img"><img src="./img/article/grand-canyon.jpg" alt=""></div>
+          <div class="article-text">
+            <h2>Új 4G szetteket mutatott be a Qualcomm</h2>
+            <p>A 700-as, a 600-as és a 400-as széria is új taggal bővül, a gyártó a továbbra is 4G orientált piacokra
+              szánja őket.</p>
+            <div class="article-icons">
+              <div class="category">HÍR</div>
+              <div class="date"> <time datetime="01.19.2020"></time>01.19.2020</div>
+              <div class="article-comments"><i class="fas fa-comments"></i>17</div>
+            </div>
+          </div>
+        </div>
+        <!-- -------------------------------- -->
+        <div class="article-box">
+          <div class="article-img"><img src="./img/article/galaxy-s20.png" alt=""></div>
+          <div class="article-text">
+            <h2>Új 4G szetteket mutatott be a Qualcomm</h2>
+            <p>A 700-as, a 600-as és a 400-as széria is új taggal bővül, a gyártó a továbbra is 4G orientált piacokra
+              szánja őket.</p>
+            <div class="article-icons">
+              <div class="category">HÍR</div>
+              <div class="date"> <time datetime="01.19.2020"></time>01.19.2020</div>
+              <div class="article-comments"><i class="fas fa-comments"></i>17</div>
+            </div>
+          </div>
+        </div>
+        <!-- -------------------------------- -->
+        <div class="article-box">
+          <div class="article-img"><img src="./img/article/realme-5pro.jpg" alt=""></div>
+          <div class="article-text">
+            <h2>Új 4G szetteket mutatott be a Qualcomm</h2>
+            <p>A 700-as, a 600-as és a 400-as széria is új taggal bővül, a gyártó a továbbra is 4G orientált piacokra
+              szánja őket.</p>
+            <div class="article-icons">
+              <div class="category">HÍR</div>
+              <div class="date"> <time datetime="01.19.2020"></time>01.19.2020</div>
+              <div class="article-comments"><i class="fas fa-comments"></i>17</div>
+            </div>
+          </div>
+        </div>
+        <!-- -------------------------------- -->
+        <div class="article-box">
+          <div class="article-img"><img src="./img/article/poco.jpg" alt=""></div>
+          <div class="article-text">
+            <h2>Új 4G szetteket mutatott be a Qualcomm</h2>
+            <p>A 700-as, a 600-as és a 400-as széria is új taggal bővül, a gyártó a továbbra is 4G orientált piacokra
+              szánja őket.</p>
+            <div class="article-icons">
+              <div class="category">HÍR</div>
+              <div class="date"> <time datetime="01.19.2020"></time>01.19.2020</div>
+              <div class="article-comments"><i class="fas fa-comments"></i>17</div>
+            </div>
+          </div>
+        </div>
+        <!-- -------------------------------- -->
+        <div class="article-box">
+          <div class="article-img"><img src="./img/article/magic-watch-2.jpg" alt=""></div>
+          <div class="article-text">
+            <h2>Új 4G szetteket mutatott be a Qualcomm</h2>
+            <p>A 700-as, a 600-as és a 400-as széria is új taggal bővül, a gyártó a továbbra is 4G orientált piacokra
+              szánja őket.</p>
+            <div class="article-icons">
+              <div class="category">HÍR</div>
+              <div class="date"> <time datetime="01.19.2020"></time>01.19.2020</div>
+              <div class="article-comments"><i class="fas fa-comments"></i>17</div>
+            </div>
+          </div>
+        </div>
+        <!-- -------------------------------- -->
+        <div class="article-box">
+          <div class="article-img"><img src="./img/article/onplus-8pro.jpg" alt=""></div>
+          <div class="article-text">
+            <h2>Új 4G szetteket mutatott be a Qualcomm</h2>
+            <p>A 700-as, a 600-as és a 400-as széria is új taggal bővül, a gyártó a továbbra is 4G orientált piacokra
+              szánja őket.</p>
+            <div class="article-icons">
+              <div class="category">HÍR</div>
+              <div class="date"> <time datetime="01.19.2020"></time>01.19.2020</div>
+              <div class="article-comments"><i class="fas fa-comments"></i>17</div>
+            </div>
+          </div>
+        </div>
+        <!-- -------------------------------- -->
+        <div class="article-box">
+          <div class="article-img"><img src="./img/article/hauwei-p40.jpg" alt=""></div>
+          <div class="article-text">
+            <h2>Új 4G szetteket mutatott be a Qualcomm</h2>
+            <p>A 700-as, a 600-as és a 400-as széria is új taggal bővül, a gyártó a továbbra is 4G orientált piacokra
+              szánja őket.</p>
+            <div class="article-icons">
+              <div class="category">HÍR</div>
+              <div class="date"> <time datetime="01.19.2020"></time>01.19.2020</div>
+              <div class="article-comments"><i class="fas fa-comments"></i>17</div>
+            </div>
+          </div>
+        </div>
+        <!-- -------------------------------- -->
+        <div class="article-box">
+          <div class="article-img"><img src="./img/article/google-pixel.jpg" alt=""></div>
+          <div class="article-text">
+            <h2>Új 4G szetteket mutatott be a Qualcomm</h2>
+            <p>A 700-as, a 600-as és a 400-as széria is új taggal bővül, a gyártó a továbbra is 4G orientált piacokra
+              szánja őket.</p>
+            <div class="article-icons">
+              <div class="category">HÍR</div>
+              <div class="date"> <time datetime="01.19.2020"></time>01.19.2020</div>
+              <div class="article-comments"><i class="fas fa-comments"></i>17</div>
+            </div>
+          </div>
+        </div>
+        <!-- -------------------------------- -->
+        <div class="article-box">
+          <div class="article-img"><img src="./img/article/oppo-f15.jpg" alt=""></div>
+          <div class="article-text">
+            <h2>Új 4G szetteket mutatott be a Qualcomm</h2>
+            <p>A 700-as, a 600-as és a 400-as széria is új taggal bővül, a gyártó a továbbra is 4G orientált piacokra
+              szánja őket.</p>
+            <div class="article-icons">
+              <div class="category">HÍR</div>
+              <div class="date"> <time datetime="01.19.2020"></time>01.19.2020</div>
+              <div class="article-comments"><i class="fas fa-comments"></i>17</div>
+            </div>
+          </div>
+        </div>
+        <!-- -------------------------------- -->
+        <div class="article-box">
+          <div class="article-img"><img src="./img/article/xperia-5-plus.jpg" alt=""></div>
+          <div class="article-text">
+            <h2>Új 4G szetteket mutatott be a Qualcomm</h2>
+            <p>A 700-as, a 600-as és a 400-as széria is új taggal bővül, a gyártó a továbbra is 4G orientált piacokra
+              szánja őket.</p>
+            <div class="article-icons">
+              <div class="category">HÍR</div>
+              <div class="date"> <time datetime="01.19.2020"></time>01.19.2020</div>
+              <div class="article-comments"><i class="fas fa-comments"></i>17</div>
+            </div>
+          </div>
+        </div>
+        <!-- -------------------------------- -->
+      </div>
+
+    </div>
+  </section>
+</body>
+
+</html>
+
+
+
+
+<!-- 
+
+   <div class="center-headlines">
+            <div class="box box-l main-article">
+              <a href="#"><img src="./img/content/tellur-sedna.png" alt=""></a>
+              <h1>Tellur Sedna teszt</h1>
+            </div>
+
+            <div class="box box-s">
+              <a href="#"><img src="./img/content/airdots.jpg" alt=""></a>
+              <h3>Xiaomi Mi Airdots Basic - verhetetlen ár, korrekt minőség</h3>
+            </div>
+
+            <div class="box box-s">
+              <a href="#"><img src="./img/content/lenovo-a6.jpg" alt=""></a>
+              <h3>Lenovo A6 Note - nem az igazi</h3>
+            </div>
+          </div>
+
+
+          <div class="right-headlines">
+            <div class="box-box-m">
+              <a href="#"><img src="./img/content/realme-5pro.jpg" alt=""></a>
+              <h2>Realme 5 Pro - igazi vetélytárs</h2>
+            </div>
+
+            <div class="box box-m">
+              <a href="#"><img src="./img/content/realme-x2pro.jpg" alt=""></a>
+              <h2>Realme X2 Pro - van új a nap alatt</h2>
+            </div>
+ -->
