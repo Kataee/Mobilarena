@@ -1,0 +1,12 @@
+/* Utility classes */
+/* prettier-ignore-start */
+
+.container { 
+  max-width: 1170px;
+  margin: auto;
+  overflow: hidden;
+}
+
+
+
+.p-x15 { padding-right: 15px; padding-left: 15px; } 
